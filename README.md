@@ -20,7 +20,7 @@ Feel free to reach out
 
 Author: Junwei Li
 
-Mail: [](mailto:junweilee@njust.edu.cn)
+Mail: [junweilee@njust.edu.cn](mailto:junweilee@njust.edu.cn)
 
 # Updates
 - [March 15, 2025]  README.md updated for repo roadmap.
