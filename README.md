@@ -2,7 +2,7 @@
 ⚠️⚠️⚠️本仓库目前还在施工中，README内的所有内容处于画大饼状态，请见谅⚠️⚠️⚠️
 
 在学习最优化理论与方法的过程中，发现了[zhangchenhaoseu/Optimization](https://github.com/zhangchenhaoseu/Optimization)这个repo。由于原仓库作者应该不会继续更新该仓库，出于学习目的（和原始仓库README欠排版的问题），fork了这个repo。
-本仓库会将原仓库代码保留在exer文件夹中，在src文件夹中将会实现自变量维度为`n`的算法复现，并将实现的算法与求解器结果进行集成的对比，其他在学习中遇到的算法也会尽量在本仓库实现。
+本仓库会将原仓库代码保留在`/最优化基础理论与方法学习代码`文件夹中，在src文件夹中将会实现自变量维度为`n`的算法复现，并将实现的算法与求解器结果进行集成的对比，其他在学习中遇到的算法也会尽量在本仓库实现。
 除此之外本仓库还会完成北京大学[文再文](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html)教授开设的[《最优化方法》](http://faculty.bicmr.pku.edu.cn/~wenzw/opt-2024-fall.html)的程序大作业题的算法实现和报告，其题目如下：
 
 > Consider the $\ell_1$-regularized problem
