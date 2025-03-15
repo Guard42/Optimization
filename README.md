@@ -41,7 +41,7 @@ Mail: mailto:junweilee@njust.edu.cn
 - 11.`非线性FR共轭梯度法`，求解四次函数，根据梯度信息计算下降方向，使用Goldstein方法得到步长；
 - 12.`非线性PRP共轭梯度法`，求解四次函数，根据梯度信息计算下降方向，使用Goldstein方法得到步长；
 
-**`/src_homework`**：包含程序大作业题的算法实现和数值实验。
+**`/LASSO`**：包含程序大作业题的算法实现和数值实验。
 
 - 1. `原始问题的次梯度法`:Subgradient method for the primal problem.
  Read the subgradient method in
