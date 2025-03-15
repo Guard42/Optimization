@@ -1,6 +1,3 @@
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 # 最优化理论与方法学习记录（Work In Progress）
 ⚠️⚠️⚠️本仓库目前还在施工中，README内的所有内容处于画大饼状态，请见谅⚠️⚠️⚠️
 
